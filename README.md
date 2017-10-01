@@ -1,7 +1,7 @@
 # philips-hue-controller
 A small terminal based program that will print out text based on the state of the lights.
 
-#### Install and run the Philips Hue Simulator on Port 8080
+#### Install and run the Philips Hue Simulator on port 8080
 ```
 sudo npm install -g hue-simulator
 sudo hue-simulator --port=8080
