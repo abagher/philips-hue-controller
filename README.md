@@ -4,7 +4,7 @@ A small terminal based program that will print out text based on the state of th
 #### Install and run the Philips Hue Simulator on Port 8080
 ```
 sudo npm install -g hue-simulator
-sudhue-simulator --port=8080
+sudo hue-simulator --port=8080
 ```
 
 #### Open a new terminal window, clone project, and go to directory
