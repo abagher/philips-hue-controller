@@ -1,0 +1,10 @@
+{
+  "name": "philips-hue-controller",
+  "version": "1.0.0",
+  "description": "A terminal based program that will print out text based on the state of the lights.",
+  "main": "app.js",
+  "author": "abagheri",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
